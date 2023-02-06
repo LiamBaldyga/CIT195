@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\bin\Debug\net6.0\bookStoreWithCount.exe
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\bin\Debug\net6.0\bookStoreWithCount.deps.json
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\bin\Debug\net6.0\bookStoreWithCount.runtimeconfig.json
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\bin\Debug\net6.0\bookStoreWithCount.dll
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\bin\Debug\net6.0\bookStoreWithCount.pdb
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.AssemblyInfo.cs
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.dll
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\refint\bookStoreWithCount.dll
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.pdb
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\bookStoreWithCount.genruntimeconfig.cache
+C:\Users\Liam\source\repos\bookStoreWithCount\bookStoreWithCount\obj\Debug\net6.0\ref\bookStoreWithCount.dll
