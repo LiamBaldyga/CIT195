@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\bookStore\bookStore\bin\Debug\net6.0\bookStore.exe
+C:\Users\Liam\source\repos\bookStore\bookStore\bin\Debug\net6.0\bookStore.deps.json
+C:\Users\Liam\source\repos\bookStore\bookStore\bin\Debug\net6.0\bookStore.runtimeconfig.json
+C:\Users\Liam\source\repos\bookStore\bookStore\bin\Debug\net6.0\bookStore.dll
+C:\Users\Liam\source\repos\bookStore\bookStore\bin\Debug\net6.0\bookStore.pdb
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfo.cs
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.dll
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\refint\bookStore.dll
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.pdb
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\bookStore.genruntimeconfig.cache
+C:\Users\Liam\source\repos\bookStore\bookStore\obj\Debug\net6.0\ref\bookStore.dll
