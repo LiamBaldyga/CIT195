@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.exe
+C:\Users\Liam\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.deps.json
+C:\Users\Liam\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.runtimeconfig.json
+C:\Users\Liam\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.dll
+C:\Users\Liam\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.pdb
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.AssemblyInfo.cs
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.dll
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\refint\myParams.dll
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.pdb
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.genruntimeconfig.cache
+C:\Users\Liam\source\repos\myParams\myParams\obj\Debug\net6.0\ref\myParams.dll
