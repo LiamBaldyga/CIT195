@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.exe
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.deps.json
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.runtimeconfig.json
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.dll
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.pdb
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.AssemblyInfo.cs
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.dll
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\refint\ClubInterface.dll
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.pdb
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.genruntimeconfig.cache
+C:\Users\Liam\source\repos\ClubInterface\ClubInterface\obj\Debug\net6.0\ref\ClubInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\bin\Debug\net6.0\VehicleInterface.exe
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\bin\Debug\net6.0\VehicleInterface.deps.json
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\bin\Debug\net6.0\VehicleInterface.runtimeconfig.json
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\bin\Debug\net6.0\VehicleInterface.dll
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\bin\Debug\net6.0\VehicleInterface.pdb
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.AssemblyInfo.cs
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.dll
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\refint\VehicleInterface.dll
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.pdb
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\VehicleInterface.genruntimeconfig.cache
+C:\Users\Liam\source\repos\VehicleInterface\VehicleInterface\obj\Debug\net6.0\ref\VehicleInterface.dll
