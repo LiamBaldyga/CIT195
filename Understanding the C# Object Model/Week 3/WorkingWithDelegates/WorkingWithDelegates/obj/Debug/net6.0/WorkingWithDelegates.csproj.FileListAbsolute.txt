@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\bin\Debug\net6.0\WorkingWithDelegates.exe
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\bin\Debug\net6.0\WorkingWithDelegates.deps.json
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\bin\Debug\net6.0\WorkingWithDelegates.runtimeconfig.json
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\bin\Debug\net6.0\WorkingWithDelegates.dll
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\bin\Debug\net6.0\WorkingWithDelegates.pdb
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.AssemblyInfo.cs
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.dll
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\refint\WorkingWithDelegates.dll
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.pdb
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\WorkingWithDelegates.genruntimeconfig.cache
+C:\Users\Liam\source\repos\WorkingWithDelegates\WorkingWithDelegates\obj\Debug\net6.0\ref\WorkingWithDelegates.dll

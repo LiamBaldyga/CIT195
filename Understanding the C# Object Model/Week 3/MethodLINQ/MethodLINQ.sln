@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodLINQ", "MethodLINQ\MethodLINQ.csproj", "{B851ABB2-6595-4E48-BAFD-A0CA0DD7CC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B851ABB2-6595-4E48-BAFD-A0CA0DD7CC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B851ABB2-6595-4E48-BAFD-A0CA0DD7CC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B851ABB2-6595-4E48-BAFD-A0CA0DD7CC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B851ABB2-6595-4E48-BAFD-A0CA0DD7CC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A1257CA-6805-4A8D-BE2A-96C1FA489962}
+	EndGlobalSection
+EndGlobal
