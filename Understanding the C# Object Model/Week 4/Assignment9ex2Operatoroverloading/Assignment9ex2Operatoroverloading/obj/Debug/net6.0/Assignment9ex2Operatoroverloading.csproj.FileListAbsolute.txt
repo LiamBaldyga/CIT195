@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\bin\Debug\net6.0\Assignment9ex2Operatoroverloading.exe
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\bin\Debug\net6.0\Assignment9ex2Operatoroverloading.deps.json
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\bin\Debug\net6.0\Assignment9ex2Operatoroverloading.runtimeconfig.json
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\bin\Debug\net6.0\Assignment9ex2Operatoroverloading.dll
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\bin\Debug\net6.0\Assignment9ex2Operatoroverloading.pdb
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.dll
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\refint\Assignment9ex2Operatoroverloading.dll
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.pdb
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\Assignment9ex2Operatoroverloading.genruntimeconfig.cache
+C:\Users\Liam\source\repos\Assignment9ex2Operatoroverloading\Assignment9ex2Operatoroverloading\obj\Debug\net6.0\ref\Assignment9ex2Operatoroverloading.dll
