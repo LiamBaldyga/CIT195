@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\Async\Async\bin\Debug\net6.0\Async.exe
+C:\Users\Liam\source\repos\Async\Async\bin\Debug\net6.0\Async.deps.json
+C:\Users\Liam\source\repos\Async\Async\bin\Debug\net6.0\Async.runtimeconfig.json
+C:\Users\Liam\source\repos\Async\Async\bin\Debug\net6.0\Async.dll
+C:\Users\Liam\source\repos\Async\Async\bin\Debug\net6.0\Async.pdb
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.dll
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\refint\Async.dll
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.pdb
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\Async.genruntimeconfig.cache
+C:\Users\Liam\source\repos\Async\Async\obj\Debug\net6.0\ref\Async.dll
