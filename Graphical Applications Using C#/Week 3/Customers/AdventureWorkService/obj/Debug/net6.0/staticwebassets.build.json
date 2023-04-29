@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V5Bzshj1eSzYsU4GjT4ona0DZefMyENioto5pglnMvQ=",
+  "Source": "AdventureWorkService",
+  "BasePath": "_content/AdventureWorkService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
